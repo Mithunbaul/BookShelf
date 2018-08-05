@@ -23,8 +23,8 @@ We have updated our searching algorithm.
 6. install MySql database
 7. Run MySql database first
 8. Download and clone the project from here
-9. Run the Command - ` php artisan serve `
-10. Now, Open your browser and go to `127.0.0.1:8000`
+9. Run the Command -  ` php artisan serve `
+10. Now, Open your browser and go to  `127.0.0.1:8000`
 11. Now you can run the project
 
 # functionality
