@@ -23,6 +23,25 @@ We have updated our searching algorithm.
 6. install MySql database
 7. Run MySql database first
 8. Download and clone the project from here
-9. Run the Command - [php artisan serve]
+9. Run the Command - ` php artisan serve `
+10. Now, Open your browser and go to `127.0.0.1:8000`
+11. Now you can run the project
 
+# functionality
+ 
+ This is the Homepage , you will find some popular books, and a search bar for searching books
+ 
 ![stack Overflow](https://mirsabbir.us/Capture.JPG)
+
+you can search any book in the search bar
+
+![stack Overflow](https://mirsabbir.us/Capture3.JPG)
+
+if you click a book, you will be taken into this page. you can see some related books. which implements A* search
+
+![stack Overflow](https://mirsabbir.us/Capture4.JPG)
+
+
+A list of all books can be found this page
+
+![stack Overflow](https://mirsabbir.us/Capture5.JPG)
