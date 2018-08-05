@@ -7,4 +7,7 @@ When  user search any kinds of desired book ,this website helps them to automati
 It provides their desired book. First if user want to buy any book , he/she open a account . 
 Then he/she will decide to buy a book to add to cart. Here We have used  AI techniques which name is A* search algorithm.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/EsBp1Sa"><a href="//imgur.com/EsBp1Sa"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+Update - 05/08/2018
+
+![stack Overflow](https://mirsabbir.us/Capture.jpg)
